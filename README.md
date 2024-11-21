@@ -2,16 +2,16 @@
 **Crime Notify App**
 A Flutter-based mobile application designed to help citizens report crimes to the nearest police stations. This app allows users to post crime reports without requiring sign-up or login, while police departments can access and verify reports within their assigned zones.
 
-Features
-Crime Reporting: Users can report crimes anonymously with details, including location (current or custom).
-Google Maps Integration: Enables users to mark the location of crimes and display zones for police.
-Police Login System: Police departments can log in to review, verify, and act upon reports in their area.
-Firebase Integration: Real-time database and notifications using Firestore and FCM.
-User-Friendly UI: Intuitive design created with Flutter and Figma.
+*Features*
+*Crime Reporting:* Users can report crimes anonymously with details, including location (current or custom).
+*Google Maps Integration:* Enables users to mark the location of crimes and display zones for police.
+*Police Login System:* Police departments can log in to review, verify, and act upon reports in their area.
+*Firebase Integration:* Real-time database and notifications using Firestore and FCM.
+*User-Friendly UI:* Intuitive design created with Flutter and Figma.
 UI Design
 The user interface design for the app was created in Figma. You can view the detailed design by clicking the link below:
 
-Figma UI Design
+*Figma UI Design*
 
 Getting Started
 Prerequisites
